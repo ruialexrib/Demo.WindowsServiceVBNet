@@ -1,0 +1,48 @@
+﻿
+A executar uma instalação transacionada.
+
+A iniciar a fase de instalação da instalação.
+Consulte o conteúdo do ficheiro de registo para verificar o progresso da assemblagem C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe.
+O ficheiro está localizado em C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+A fase de instalação foi concluída com êxito e a fase de confirmação está a ser iniciada.
+Consulte o conteúdo do ficheiro de registo para verificar o progresso da assemblagem C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe.
+O ficheiro está localizado em C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+A fase de confirmação foi concluída com êxito.
+
+A instalação transacionada foi concluída.
+
+A executar uma instalação transacionada.
+
+A iniciar a fase de instalação da instalação.
+Consulte o conteúdo do ficheiro de registo para verificar o progresso da assemblagem C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe.
+O ficheiro está localizado em C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+Ocorreu uma Exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O serviço especificado já existe
+
+A fase de anulação da instalação está a ser iniciada.
+Consulte o conteúdo do ficheiro de registo para verificar o progresso da assemblagem C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe.
+O ficheiro está localizado em C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+A fase de anulação foi concluída com êxito.
+
+A instalação transacionada foi concluída.
+
+A executar uma instalação transacionada.
+
+A iniciar a fase de instalação da instalação.
+Consulte o conteúdo do ficheiro de registo para verificar o progresso da assemblagem C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe.
+O ficheiro está localizado em C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+Ocorreu uma Exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O serviço especificado já existe
+
+A fase de anulação da instalação está a ser iniciada.
+Consulte o conteúdo do ficheiro de registo para verificar o progresso da assemblagem C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe.
+O ficheiro está localizado em C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+A fase de anulação foi concluída com êxito.
+
+A instalação transacionada foi concluída.

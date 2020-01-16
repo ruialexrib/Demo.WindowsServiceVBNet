@@ -1,0 +1,39 @@
+﻿A instalar a assemblagem 'C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe'.
+Seguem-se os parâmetros afetados:
+   logtoconsole = 
+   logfile = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe
+A instalar o serviço Service1...
+O serviço Service1 foi instalado com êxito.
+A criar a origem de EventLog Service1 no registo Application...
+A confirmar a assemblagem 'C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe'.
+Seguem-se os parâmetros afetados:
+   logtoconsole = 
+   logfile = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe
+A instalar a assemblagem 'C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe'.
+Seguem-se os parâmetros afetados:
+   logtoconsole = 
+   logfile = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe
+A instalar o serviço Service1...
+A criar a origem de EventLog Service1 no registo Application...
+A reverter a assemblagem 'C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe'.
+Seguem-se os parâmetros afetados:
+   logtoconsole = 
+   logfile = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe
+A restaurar o estado anterior do registo de eventos para a origem Service1.
+A instalar a assemblagem 'C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe'.
+Seguem-se os parâmetros afetados:
+   logtoconsole = 
+   logfile = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe
+A instalar o serviço Service1...
+A criar a origem de EventLog Service1 no registo Application...
+A reverter a assemblagem 'C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe'.
+Seguem-se os parâmetros afetados:
+   logtoconsole = 
+   logfile = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\ruiribeiro\source\repos\WindowsService1\bin\Debug\WindowsService1.exe
+A restaurar o estado anterior do registo de eventos para a origem Service1.
